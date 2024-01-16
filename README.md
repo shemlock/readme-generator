@@ -46,13 +46,13 @@ After invoking the application, you as a user will be presented with 9 questions
 
 * If you see a question than has a checkbox, as seen in the image below. 
 * Please use the up and down arrow keys to go through the options, then press spacebar to select an option. 
-* After pressing spacebar to select you should see a little asteriks next to your chosen option. If you are happy with this selection then press enter. 
+* After pressing spacebar to select you should see a little asterisk next to your chosen option. If you are happy with this selection then press enter. 
 
 ![checkbox](assets/images/checkbox.png)
 
-After answering all the questions, you should see a 'examplereadme.md creating successfully". 
+After answering all the questions, you should see a 'examplereadme.md creating successfully' message. 
 
-Now when you go to your files you will see an 'examplereadme.md' file has been created, as shown below. 
+Now when you go to your files you will see that a 'examplereadme.md' file has been created, as shown below. 
 
 ![examplefile](assets/images/examplefile.png)
 
