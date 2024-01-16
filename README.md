@@ -5,6 +5,8 @@
 
 README Generator is a command-line application that dynamically generates a professional README.md file from a user's input. 
 
+The image above illustrates an example README.md file that was generated for a Movie Website Project, using the README Generator. 
+
 The motivation for this project was to enable users to quickly and easily create a README file for their project. 
 
 README Generator helps to solve the problem of inefficent workflow. Creating README.md files is a time-consuming task, by using this command line application, users can spend less time on writing the README and devote more time to working on other aspects of their projects. 
@@ -27,11 +29,7 @@ Building this project helped me learn more about:
 
 ## Installation
 
-To invoke this application, please download the files then in the terminal write: 
-
-node injex.js 
-
-Then press enter. 
+To invoke this application, please download the files then in the terminal write 'node injex.js'. Then press enter. 
 
 ## Usage
 
@@ -39,19 +37,22 @@ After invoking the application, you as a user will be presented with 9 questions
 
 ![questions](assets/images/questions.png)
 
-Please note questions are in white, user input is in blue. 
-To answer just type what you would like to say then press enter. 
-If you see a questions that has something in brackets after, as seen in the image below. This is a default answer. If you would like to select the default answer please just press enter. If you do not want the default answer you can overwrite it by just typing whatever you like. 
+* Please note questions are in white, user input is in blue. 
+* To answer just type what you would like to say then press enter. 
+* If you see questions that have something in brackets after, as seen in the image below, this is a default answer. 
+* If you would like to select the default answer please just press enter. If you do not want the default answer you can overwrite it by just typing whatever you like. 
 
 ![default](assets/images/default.png)
 
-If you see a question than has a checkbox, as seen in the answer below. Please use the up and down arrow keys to go through the options, then press spacebar to select and option. After pressing spacebar to select you should see a little asteriks next to your chosen option. If you are happy with this selection then press enter. 
+* If you see a question than has a checkbox, as seen in the image below. 
+* Please use the up and down arrow keys to go through the options, then press spacebar to select an option. 
+* After pressing spacebar to select you should see a little asteriks next to your chosen option. If you are happy with this selection then press enter. 
 
 ![checkbox](assets/images/checkbox.png)
 
 After answering all the questions, you should see a 'examplereadme.md creating successfully". 
 
-Now when you go to your files you will see an 'examplereadme.md' file has been created. 
+Now when you go to your files you will see an 'examplereadme.md' file has been created, as shown below. 
 
 ![examplefile](assets/images/examplefile.png)
 
