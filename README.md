@@ -29,7 +29,7 @@ Building this project helped me learn more about:
 
 ## Installation
 
-To invoke this application, please download the files then in the terminal write 'node injex.js'. Then press enter. 
+To invoke this application, please download the files then in the terminal write < node index.js > then press enter. 
 
 ## Usage
 
