@@ -35,7 +35,7 @@ To invoke this application, please download the files then in the terminal write
 
 After invoking the application, you as a user will be presented with 9 questions, as seen in the example below.
 
-![questions](assets/images/questions.png)
+![questions](assets/images/questionsinputs.png)
 
 * Please note questions are in white, user input is in blue. 
 * To answer just type what you would like to say then press enter. 
